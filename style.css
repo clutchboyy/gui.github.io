@@ -1,0 +1,39 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+
+}
+.img{
+    border-radius: 100%;
+  width: 200px;
+}
+h1{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.botao{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: aqua;
+  
+
+}
+
+.immg{
+    height: 500;
+    width: 500;
+    border-radius:50px;
+}
